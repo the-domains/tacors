@@ -1,0 +1,28 @@
+name: Tacors
+favicon: null
+layout_spectrum: 0.2060539317317307
+typography_spectrum: 0.09889762848615646
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.11484999256208539
+  lightness: 0.45589114469476044
+  saturation: 0.45226875436492264
+  rhythmicContrast: 0.18728493712842464
+purpose: []
